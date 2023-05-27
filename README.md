@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityanichkawade
 - 👀 I’m interested in Frontend/UI/Web development
-- 🌱 I’m currently learning React, VueJS
+- 🌱 I’m currently learning React, VueJS, Angular
 - 💞️ I’m looking to collaborate on frontend application, libraries, website development  project
 - 📫 How to reach me aditya.nichkawade@gmail.com
 
